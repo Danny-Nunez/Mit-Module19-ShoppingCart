@@ -1,0 +1,11 @@
+.wrapper {
+    display: inline-flex;
+    padding: 5px;
+    margin: 5px;
+
+}
+.text {
+    padding-top: 6px;
+    padding-right: 10px;
+    display: flex;
+}
