@@ -4,7 +4,7 @@ In Module 19: Shopping Cart Exercise, We learned how to integrate a React front 
 
 <img width="1407" alt="Screen Shot 2023-04-04 at 6 25 22 PM" src="https://user-images.githubusercontent.com/114783191/229937016-0cfec3b1-1d74-43b5-9a53-8c4a3dafe606.png">
 
-# Delpoyment
+# How to run
 
 To run this React shopping cart. You must have strapi running and enter products and update the api address to your localhost1337 address. This will allow you to communicate with your list of items. Open the index.html on your live server and make sure strapi is running. To test the api calls please use postman.
 
@@ -24,3 +24,10 @@ Json Body Example of entering item
                 "instock": 10
         }
 }
+
+# Tech used 
+
+1. React<br>
+2. Strapi<br>
+3. Postman<br>
+4. Boostrap
